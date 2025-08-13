@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../python"
+		},
+		{
+			"path": "../python"
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+
+			
+
+
+		]
+	}
+}
